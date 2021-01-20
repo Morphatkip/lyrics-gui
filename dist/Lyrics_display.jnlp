@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Lyrics_display.jnlp">
+  <information>
+    <title>Lyrics_display</title>
+    <vendor>Morphat</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  <shortcut><desktop/></shortcut>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Lyrics_display.jar" size="27246" download="eager" />
+    <jar href="lib\cglib-2.2.jar" size="278385" download="eager" />
+    <jar href="lib\charm-glisten-6.0.4-javadoc.jar" size="261" download="eager" />
+    <jar href="lib\charm-glisten-6.0.4.jar" size="964062" download="eager" />
+    <jar href="lib\mysql-connector-java-8.0.19.jar" size="2356711" download="eager" />
+    <jar href="lib\org-apache-commons-logging.jar" size="61186" download="eager" />
+    <jar href="lib\spring-aop-4.3.25.RELEASE.jar" size="380278" download="eager" />
+    <jar href="lib\spring-aspects-4.3.25.RELEASE.jar" size="59369" download="eager" />
+    <jar href="lib\spring-beans-4.3.25.RELEASE.jar" size="760943" download="eager" />
+    <jar href="lib\spring-context-4.3.25.RELEASE.jar" size="1143474" download="eager" />
+    <jar href="lib\spring-context-support-4.3.25.RELEASE.jar" size="187548" download="eager" />
+    <jar href="lib\spring-core-4.3.25.RELEASE.jar" size="1125637" download="eager" />
+    <jar href="lib\spring-expression-4.3.25.RELEASE.jar" size="273930" download="eager" />
+    <jar href="lib\spring-instrument-4.3.25.RELEASE.jar" size="7358" download="eager" />
+    <jar href="lib\spring-instrument-tomcat-4.3.25.RELEASE.jar" size="10628" download="eager" />
+    <jar href="lib\spring-jdbc-4.3.25.RELEASE.jar" size="430538" download="eager" />
+    <jar href="lib\spring-jms-4.3.25.RELEASE.jar" size="289152" download="eager" />
+    <jar href="lib\spring-messaging-4.3.25.RELEASE.jar" size="387347" download="eager" />
+    <jar href="lib\spring-orm-4.3.25.RELEASE.jar" size="477616" download="eager" />
+    <jar href="lib\spring-oxm-4.3.25.RELEASE.jar" size="85129" download="eager" />
+    <jar href="lib\spring-test-4.3.25.RELEASE.jar" size="605621" download="eager" />
+    <jar href="lib\spring-tx-4.3.25.RELEASE.jar" size="269102" download="eager" />
+    <jar href="lib\spring-web-4.3.25.RELEASE.jar" size="826933" download="eager" />
+    <jar href="lib\spring-webmvc-4.3.25.RELEASE.jar" size="916970" download="eager" />
+    <jar href="lib\spring-webmvc-portlet-4.3.25.RELEASE.jar" size="176869" download="eager" />
+    <jar href="lib\spring-websocket-4.3.25.RELEASE.jar" size="453997" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="main.Lyrics_display"  name="Lyrics_display" />
+  <update check="background"/>
+</jnlp>
